@@ -21,4 +21,6 @@ Biotechnology should only be used for peaceful purposes.
 ## TINKERING
 Tinkering with biology leads to insight; insight leads to innovation.
 
-From the 2011 North American DIYbio.org Congress
+
+###History
+From the 2011 North American DIYbio.org Congress.
