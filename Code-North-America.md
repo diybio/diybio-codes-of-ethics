@@ -1,4 +1,5 @@
 #DIYBIO CODE OF ETHICS
+From the 2011 North American DIYbio.org Congress
 
 ## OPEN ACCESS
 Promote citizen science and decentralized access to biotechnology.
