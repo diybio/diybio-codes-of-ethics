@@ -1,5 +1,4 @@
 #DIYBIO CODE OF ETHICS
-From the 2011 North American DIYbio.org Congress
 
 ## OPEN ACCESS
 Promote citizen science and decentralized access to biotechnology.
@@ -21,3 +20,5 @@ Biotechnology should only be used for peaceful purposes.
 
 ## TINKERING
 Tinkering with biology leads to insight; insight leads to innovation.
+
+From the 2011 North American DIYbio.org Congress
